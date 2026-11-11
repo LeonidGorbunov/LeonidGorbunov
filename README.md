@@ -22,7 +22,7 @@ QA Engineer (Java Automation & Manual). Разрабатываю фреймво�
 | 3 | [java-api-testing-burger](https://github.com/LeonidGorbunov/java-api-testing-burger) | **Stellar Burgers** (REST API) | Java 11, JUnit 4, RestAssured, Gson, Lombok, Allure | [![Allure Report](https://img.shields.io/badge/Allure%20Report-Live-brightgreen)](https://leonidgorbunov.github.io/java-api-testing-burger/) |
 | 4 | [java-api-testing-scooter](https://github.com/LeonidGorbunov/java-api-testing-scooter) | **Яндекс.Самокат** (REST API) | Java 11, JUnit 4, RestAssured, Gson, Lombok, Allure | [![Allure Report](https://img.shields.io/badge/Allure%20Report-Live-brightgreen)](https://leonidgorbunov.github.io/java-api-testing-scooter/) |
 | 5 | [java-unit-testing-burger](https://github.com/LeonidGorbunov/java-unit-testing-burger) | **Конструктор бургеров** (Unit) | Java 11, JUnit 4, Mockito, JaCoCo | [![JaCoCo Coverage](https://img.shields.io/badge/JaCoCo-100%25-brightgreen)](https://leonidgorbunov.github.io/java-unit-testing-burger/) |
-| 6 | [java-unit-testing-zoo](https://github.com/LeonidGorbunov/java-unit-testing-zoo) | **Учёт животных** (Unit) | Java 11, JUnit 4, Mockito, JaCoCo |
+| 6 | [java-unit-testing-zoo](https://github.com/LeonidGorbunov/java-unit-testing-zoo) | **Учёт животных** (Unit) | Java 11, JUnit 4, Mockito, JaCoCo | [![JaCoCo Coverage](https://img.shields.io/badge/JaCoCo-100%25-brightgreen)](https://leonidgorbunov.github.io/java-unit-testing-zoo/) |
 | 7 | [java-ui-testing-scooter](https://github.com/LeonidGorbunov/java-ui-testing-scooter) | **Яндекс.Самокат** (E2E UI) | Java 11, JUnit 4, Selenium, WebDriverManager | - |
 
 ## Автоматизация API в Postman
