@@ -21,9 +21,9 @@ QA Engineer (Java Automation & Manual). Разрабатываю фреймво�
 | 2 | [java-ui-testing-burger-selenium-ju4](https://github.com/LeonidGorbunov/java-ui-testing-burger-selenium-ju4) | **Stellar Burgers** (E2E UI) | Java 11, JavaScript, JUnit 4, Selenium, RestAssured, Gson, Lombok, Allure | [![Allure Report](https://img.shields.io/badge/Allure%20Report-Live-brightgreen)](https://leonidgorbunov.github.io/java-ui-testing-burger-selenium-ju4/) |
 | 3 | [java-api-testing-burger](https://github.com/LeonidGorbunov/java-api-testing-burger) | **Stellar Burgers** (REST API) | Java 11, JUnit 4, RestAssured, Gson, Lombok, Allure | [![Allure Report](https://img.shields.io/badge/Allure%20Report-Live-brightgreen)](https://leonidgorbunov.github.io/java-api-testing-burger/) |
 | 4 | [java-api-testing-scooter](https://github.com/LeonidGorbunov/java-api-testing-scooter) | **Яндекс.Самокат** (REST API) | Java 11, JUnit 4, RestAssured, Gson, Lombok, Allure | [![Allure Report](https://img.shields.io/badge/Allure%20Report-Live-brightgreen)](https://leonidgorbunov.github.io/java-api-testing-scooter/) |
-| 5 | [java-ui-testing-scooter](https://github.com/LeonidGorbunov/java-ui-testing-scooter) | **Яндекс.Самокат** (E2E UI) | Java 11, JUnit 4, Selenium, WebDriverManager |
-| 6 | [java-unit-testing-burger](https://github.com/LeonidGorbunov/java-unit-testing-burger) | **Конструктор бургеров** (Unit) | Java 11, JUnit 4, Mockito, JaCoCo |
-| 7 | [java-unit-testing-zoo](https://github.com/LeonidGorbunov/java-unit-testing-zoo) | **Учёт животных** (Unit) | Java 11, JUnit 4, Mockito, JaCoCo |
+| 5 | [java-unit-testing-burger](https://github.com/LeonidGorbunov/java-unit-testing-burger) | **Конструктор бургеров** (Unit) | Java 11, JUnit 4, Mockito, JaCoCo |
+| 6 | [java-unit-testing-zoo](https://github.com/LeonidGorbunov/java-unit-testing-zoo) | **Учёт животных** (Unit) | Java 11, JUnit 4, Mockito, JaCoCo |
+| 7 | [java-ui-testing-scooter](https://github.com/LeonidGorbunov/java-ui-testing-scooter) | **Яндекс.Самокат** (E2E UI) | Java 11, JUnit 4, Selenium, WebDriverManager | - |
 
 ## Автоматизация API в Postman
 
