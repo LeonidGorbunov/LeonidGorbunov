@@ -15,12 +15,12 @@ QA Engineer (Java Automation & Manual). Разрабатываю фреймво�
 
 Ключевые проекты по автоматизации:
 
-| № | Проект | Продукт и уровень | Стек |
-| :--- | :--- | :--- | :--- |
+| № | Проект | Продукт и уровень | Стек | Отчёт |
+| :--- | :--- | :--- | :--- | :--- |
 | 1 | [java-ui-testing-burger-selenide-ju5](https://github.com/LeonidGorbunov/java-ui-testing-burger-selenide-ju5) | **Stellar Burgers** (E2E UI) | Java 11, JUnit 5, Selenide, RestAssured, Gson, Datafaker, Lombok, Allure |
 | 2 | [java-ui-testing-burger-selenium-ju4](https://github.com/LeonidGorbunov/java-ui-testing-burger-selenium-ju4) | **Stellar Burgers** (E2E UI) | Java 11, JavaScript, JUnit 4, Selenium, RestAssured, Gson, Lombok, Allure |
 | 3 | [java-api-testing-burger](https://github.com/LeonidGorbunov/java-api-testing-burger) | **Stellar Burgers** (REST API) | Java 11, JUnit 4, RestAssured, Gson, Lombok, Allure |
-| 4 | [java-api-testing-scooter](https://github.com/LeonidGorbunov/java-api-testing-scooter) | **Яндекс.Самокат** (REST API) | Java 11, JUnit 4, RestAssured, Gson, Lombok, Allure |
+| 4 | [java-api-testing-scooter](https://github.com/LeonidGorbunov/java-api-testing-scooter) | **Яндекс.Самокат** (REST API) | Java 11, JUnit 4, RestAssured, Gson, Lombok, Allure | [Allure Report (Live)](https://leonidgorbunov.github.io/java-api-testing-scooter) |
 | 5 | [java-ui-testing-scooter](https://github.com/LeonidGorbunov/java-ui-testing-scooter) | **Яндекс.Самокат** (E2E UI) | Java 11, JUnit 4, Selenium, WebDriverManager |
 | 6 | [java-unit-testing-burger](https://github.com/LeonidGorbunov/java-unit-testing-burger) | **Конструктор бургеров** (Unit) | Java 11, JUnit 4, Mockito, JaCoCo |
 | 7 | [java-unit-testing-zoo](https://github.com/LeonidGorbunov/java-unit-testing-zoo) | **Учёт животных** (Unit) | Java 11, JUnit 4, Mockito, JaCoCo |
