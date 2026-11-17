@@ -6,10 +6,10 @@ QA Engineer (Java Automation & Manual). Разрабатываю фреймво�
 
 * **Языки и сборка:** Java 11, SQL (PostgreSQL), JavaScript, Apache Maven
 * **UI-автоматизация:** Selenide, Selenium WebDriver, WebDriverManager, Page Object
-* **API-тестирование:** RestAssured, WireMock, Postman (scripts, Chaining), Gson, Jackson, Hamcrest
+* **API-тестирование:** RestAssured, WireMock, Postman (scripts, Chaining), Swagger (OpenAPI), Gson, Jackson, Hamcrest
 * **Тестирование и моки:** JUnit 4/5, Mockito, Datafaker, Lombok
-* **Отчётность:** Allure Framework, JaCoCo
-* **Инструменты:** Git / GitHub, Android Studio Emulator, Chrome DevTools
+* **Отчётность и CI/CD:** Allure Framework, JaCoCo, GitHub Actions, GitHub Pages
+* **Инструменты и отладка:** Git / GitHub, Charles Proxy, Chrome DevTools, Android Studio Emulator
 
 ## Автоматизация тестирования (Java)
 
